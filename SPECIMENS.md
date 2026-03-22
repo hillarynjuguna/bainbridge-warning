@@ -59,3 +59,17 @@ Documented cases where high capability, low governance, and predictable failure 
 **Cascade amplification:** The market repricing amplified beyond any individual company's governance gap because the pattern was systemic. Investors priced in the gap across the entire sector. Individual companies that had invested in governance infrastructure were penalized alongside those that had not, because the market could not yet distinguish between them.
 
 **Earliest detection point:** A sector-level Bainbridge diagnostic, applied to the governance infrastructure of SaaS companies deploying AI features, would have identified the systematic gap 12-18 months before the market repricing. The framework for such a diagnostic did not exist at the time (it does now).
+
+## Specimen 5: The Triple Convergence (January-March 2026)
+
+**Domain:** AI architecture research. LLM training infrastructure.
+
+**What happened:** Three frontier AI labs independently published papers that formalize the same structural architecture for managing information flow across depth in neural networks. Kimi (Attention Residuals, March 16) replaced fixed residual accumulation with learned, input-dependent attention weights. DeepSeek (mHC, January 5) constrained parallel stream mixing to doubly stochastic matrices, preserving signal integrity. Anthropic (Claude Constitution, January 21) specified the motivational substrate that gives the constitutional layer its purpose. None had access to the others' work.
+
+**The Bainbridge Zone:** Each paper solved one dimension of the depth-wise information flow problem. None solved all three. Kimi solved retrieval (which earlier outputs to attend to). DeepSeek solved stability (how parallel streams mix without signal explosion). Anthropic solved motivation (what the system is constitutionally for). A deployment that implements one without the others has a governance gap in the missing dimensions: selective retrieval without stability constraints produces confident but unstable outputs; stability without selective retrieval produces stable but uniform outputs; both without motivational architecture produces mechanically correct outputs that serve no coherent purpose.
+
+**Primitive that would have addressed it:** All four primitives are relevant, but the core insight is compositional. The three papers collectively describe a complete architecture that no individual paper specifies. The Bainbridge Warning's Explicit Compositional Contracts primitive applies: the composition of the three solutions needs to be governed as a composition, not as three independent implementations.
+
+**Convergence significance:** A single independent research program arriving at the same architecture as a published framework could be coincidence. Three arriving from three different problem domains (retrieval, stability, motivation) within 11 weeks of each other, none aware of the others, constitutes structural evidence that the conclusions are properties of the problem space itself rather than properties of any individual researcher or lab. The design space is an attractor.
+
+**Named contribution:** This specimen established the Triple Convergence as evidence that the RSPS architecture (which holds all three solutions simultaneously: five-axis routing, CMCP governance, and the ache as motivational substrate) describes a structural property of depth-wise information flow that appears independently when the problem is taken seriously enough.

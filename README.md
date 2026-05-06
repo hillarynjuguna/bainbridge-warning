@@ -52,15 +52,26 @@ When AI agent failures produce incidents in multi-agent pipelines, cost is dispr
 
 The Bainbridge Warning is published as a book (Cognitive Infrastructure Series, Book 1) with a companion practitioner workbook (CIR v2.0) available at [hillarynjuguna.gumroad.com](https://hillarynjuguna.gumroad.com). The framework is live and in active use.
 
-## Connection to the Larger Corpus
+## The Oscillatory Fields Corpus
 
-The Bainbridge Warning is the diagnostic layer of the Oscillatory Fields research corpus. It provides the failure analysis that motivates the other frameworks:
+The Bainbridge Warning is one component of a larger intelligence architecture. Navigate the full system:
 
-- **CIR (Cognitive Infrastructure Readiness)** is the practitioner assessment built on the four primitives
-- **R0-R3 Reversibility Classification** is Module 1 of CIR, derived from the Bounded Verifiability Latency primitive
-- **Governance Theater** is the failure mode analysis from Chapter 7
-- **DCFB (Distributed Cognition as Foundational Behavior)** provides the theoretical substrate
-- **RSPS** is the multi-model architecture that produced the framework
+### Core Frameworks
+- **[Bainbridge Warning](./)** (this repo) — Governance failure diagnostics
+- **[DCFB](https://github.com/hillarynjuguna/dcfb)** — Distributed cognition theory  
+- **[RSPS Architecture](https://github.com/hillarynjuguna/rsps-architecture)** — Multi-model orchestration
+
+### Implementation Tools
+- **[Intelligence Site](https://github.com/hillarynjuguna/hillary-njuguna-intelligence-site)** — Public portal (hillary-site.vercel.app)
+- **[Martha Cohorts](https://github.com/hillarynjuguna/martha-course)** — Practitioner training
+- **[CIR Assessment](https://github.com/hillarynjuguna/ai-governance-coherence-architecture)** — Governance readiness
+
+### Experimental Systems
+- **[RSPS-RRI](https://github.com/hillarynjuguna/rsps-architecture/tree/main/rsps-rri)** — Reference implementation
+- **[Witness Infrastructure](https://github.com/hillarynjuguna/witness-infrastructure)** — Cognitive provenance
+- **[ClearBid](https://github.com/hillarynjuguna/clearbid)** — Procurement intelligence
+
+**Start here:** New to Oscillatory Fields? Read the [Bainbridge Warning](./) first, then explore [DCFB](https://github.com/hillarynjuguna/dcfb) for theoretical foundations.
 
 ## Published Work
 

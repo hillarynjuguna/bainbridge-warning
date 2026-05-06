@@ -189,3 +189,20 @@ For systemic gaps:
 **Framework Reference:** [Bainbridge Warning](https://github.com/hillarynjuguna/bainbridge-warning)  
 **Methodology:** Oscillatory Fields Intelligence Architecture  
 **License:** MIT — Free for commercial and research use
+
+---
+
+## APPLY FOR PROFESSIONAL REVIEW
+
+**Struggling with a critical R3 gap?**
+
+The Oscillatory Fields team provides high-fidelity governance audits for enterprise AI deployments. We review your diagnostic results, validate your remediation roadmap, and provide an external "Governance Readiness" certification.
+
+### Why apply for a review?
+1. **Third-Party Validation:** Independent verification for board and regulatory compliance.
+2. **Cascade Simulation:** We run your capability profile through our proprietary failure models.
+3. **Expert Remediation:** Direct access to architects who have solved similar R3-level risks.
+
+**[Apply for a Professional Review](https://hillary-site.vercel.app/apply)**
+
+*Note: We only accept 2 enterprise reviews per month to maintain audit fidelity.*

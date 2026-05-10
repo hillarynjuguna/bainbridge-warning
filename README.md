@@ -68,14 +68,14 @@ The Bainbridge Warning is one component of a larger intelligence architecture. N
 
 ### Experimental Systems
 - **[RSPS-RRI](https://github.com/hillarynjuguna/rsps-architecture/tree/main/rsps-rri)** — Reference implementation
-- **[Witness Infrastructure](https://github.com/hillarynjuguna/witness-infrastructure)** — Cognitive provenance
-- **[ClearBid](https://github.com/hillarynjuguna/clearbid)** — Procurement intelligence
+- **[Witness Infrastructure](https://github.com/hillarynjuguna/witness-android-app)** — Cognitive provenance (Android implementation)
+- **[ClearBid](https://github.com/hillarynjuguna/GTM_Engine)** — Procurement intelligence (GTM Engine)
 
 **Start here:** New to Oscillatory Fields? Read the [Bainbridge Warning](./) first, then explore [DCFB](https://github.com/hillarynjuguna/dcfb) for theoretical foundations.
 
 ## Published Work
 
-- [The Bainbridge Warning (site)](https://hillary-site.vercel.app/research/bainbridge-warning)
+- [The Bainbridge Warning (site)](https://hillarynjuguna.vercel.app/research/bainbridge-warning)
 - [Governance Theater: The Failure Mode Nobody Names](https://hillary-site.vercel.app/research/governance-theater)
 - [The R0-R3 Reversibility Classification](https://hillary-site.vercel.app/research/r0-r3-classification)
 - [CIR v2.0 Practitioner Assessment](https://hillarynjuguna.gumroad.com)
